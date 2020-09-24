@@ -6,12 +6,13 @@ For more information, please read the [About Us](https://www.saomaicenter.org/en
 We would like to call for volunteers to help us translate our software applications into your local languages so it could help more visually impaired users around the world.
 [read the entire calling letter here](https://github.com/Sao-Mai-Center/SM-Soft-Translation/wiki/HELP-TO-TRANSLATE-OUR-FREE-SOFTWARE-INTO-YOUR-LOCAL-LANGUAGE).  
 
-## Translation needed software
-Please read the introduction about software that we currently own if you don't know them before:
+## Software need to be translated
+Please read the introduction about software that we currently own, as well as try them if you haven't use before:
 
 - [Sao Mai Braille](http://saomaicenter.org/en/smsoft/smb)
-- [SM Braille Viewer](http://saomaicenter.org/en/smsoft/sm-braille-viewer)
 - [Sao Mai Typing Tutor](http://saomaicenter.org/en/smsoft/smtt)
+- [SM Music Reader](http://saomaicenter.org/en/smsoft/sm-music-reader)
+- [SM Braille Viewer](http://saomaicenter.org/en/smsoft/sm-braille-viewer)
 
 This repository has been created, which hope the translation stuff could be more convenient to community, especially GitHub user.
 However, if you're non-GitHub user, you can still contribute your translation by other way.

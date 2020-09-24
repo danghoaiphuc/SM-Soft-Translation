@@ -26,7 +26,7 @@ If you are GitHub user, we suggest you to fork this repository to your account, 
     - [Translate Sao Mai Braille (Windows version)](https://github.com/Sao-Mai-Center/SM-Soft-Translation/wiki/TRANSLATE-SAO-MAI-BRAILLE-(WINDOWS-VERSION))
     - [Translate Sao Mai Typing Tutor (Windows version)](https://github.com/Sao-Mai-Center/SM-Soft-Translation/wiki/TRANSLATE-SAO-MAI-TYPING-TUTOR-(WINDOWS-VERSION))
 - Open the corresponding folder. For example, translator of Sao Mai Braille should open folder called SMTranslatorForSMB, then start translating.
-- Commit to your repository, then create pull request to contribute with us.
+- Commit to your FORKED repository, then create pull request to contribute with us.
 
 Right now this repository doesn't have translation files for Sao Mai Android apps.
 Those will be updated soon.

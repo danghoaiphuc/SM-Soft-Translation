@@ -20,7 +20,7 @@ However, if you're non-GitHub user, you can still contribute your translation by
 ## For GitHub user
 If you are GitHub user, we suggest you to fork this repository to your account, clone it to your computer, then do the following:
 
-- Make a new branch for your translation, then switch to that branch.
+- Make a new branch for your translation, then switch to (checkout) that branch.
 - Follow the quick instruction on the program in which you want to translate:
     - [Translate Sao Mai's Android Apps](https://github.com/Sao-Mai-Center/SM-Soft-Translation/wiki/TRANSLATE-ANDROID-APPS-(SM-MUSIC-READER-AND-SM-BRAILLE-VIEWER))
     - [Translate Sao Mai Braille (Windows version)](https://github.com/Sao-Mai-Center/SM-Soft-Translation/wiki/TRANSLATE-SAO-MAI-BRAILLE-(WINDOWS-VERSION))

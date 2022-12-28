@@ -1,4 +1,5 @@
 Welcome to SM-Soft-Translation - a repository for translating Sao Mai center for the blind's software!  
+Updated: Dec 28, 2022
 We are a small non-profit organization for the blind based in Vietnam and have very limited budget for our activities.
 We rely on donations and grants to provide support services, maintain and develop new assistive tools.
 All of our services and products are given free of charge for the visually impaired people.
